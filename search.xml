@@ -3,7 +3,9 @@
   <entry>
     <title>Hello World</title>
     <url>/hexoblog/2023/02/09/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+    <content><![CDATA[<p>a brief guide to build your blog</p>
+<span id="more"></span>
+<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
@@ -19,52 +21,132 @@
 ]]></content>
   </entry>
   <entry>
-    <title>标签</title>
-    <url>/hexoblog/2022/12/22/tags/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
     <title>test</title>
     <url>/hexoblog/2023/02/09/testing/</url>
     <content><![CDATA[<p>摘要</p>
 <span id="more"></span>
 <p>helloworld</p>
-<h1 id="title1"><a href="#title1" class="headerlink" title="title1"></a>title1</h1><p>content 1</p>
-<h2 id="title2"><a href="#title2" class="headerlink" title="title2"></a>title2</h2><p>content 2</p>
 <figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="type">int</span></span><br><span class="line">adi</span><br><span class="line">adf</span><br></pre></td></tr></table></figure>
 <hr>
-<ol>
-<li>fds</li>
-<li>wre</li>
-</ol>
-<ul>
-<li>fda</li>
-<li>-fd</li>
-</ul>
 <p><a href="www.baidu.com">baidu</a></p>
 <p>容器</p>
 <p><code>&#123;% note class_name %&#125; Content (md partial supported) &#123;% endnote %&#125;</code></p>
 <p>其中，class_name 可以是以下列表中的一个值：</p>
 <ul>
-<li>default</li>
-<li>primary</li>
-<li>success</li>
-<li>info</li>
-<li>warning</li>
-<li>danger</li>
+<li>default<ul>
+<li><div class="note default"><p>Content (md partial supported) </p>
+</div></li>
 </ul>
+</li>
+<li>primary<ul>
+<li><div class="note primary"><p>Content (md partial supported) </p>
+</div></li>
+</ul>
+</li>
+<li>success <ul>
+<li><div class="note success"><p>Content (md partial supported) </p>
+</div></li>
+</ul>
+</li>
+<li>info<ul>
+<li><div class="note info"><p>Content (md partial supported) </p>
+</div></li>
+</ul>
+</li>
+<li>warning<ul>
+<li><details class="note "><summary><p>waring</p>
+</summary>
+<p>Content (md partial supported) </p>
+
+</details></li>
+</ul>
+</li>
+<li>danger<ul>
+<li><div class="note danger"><p>Content (md partial supported) </p>
+</div></li>
+</ul>
+</li>
+</ul>
+<p><a href="https://zhuanlan.zhihu.com/p/384472746">友链教程</a></p>
 ]]></content>
       <categories>
-        <category>test</category>
+        <category>frontend</category>
       </categories>
       <tags>
         <tag>test</tag>
-        <tag>first</tag>
       </tags>
   </entry>
   <entry>
-    <title>分类</title>
-    <url>/hexoblog/2023/02/09/categories/</url>
+    <title>文章加密</title>
+    <url>/hexoblog/2023/02/09/%E5%AF%86%E7%A0%81/</url>
     <content><![CDATA[]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>博客</tag>
+        <tag>Hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>建站</title>
+    <url>/hexoblog/2023/02/09/%E5%BB%BA%E7%AB%99/</url>
+    <content><![CDATA[<p>摘要</p>
+<span id="more"></span>
+<h2 id="体会"><a href="#体会" class="headerlink" title="体会"></a>体会</h2><p>在经历了<code>vuepress</code>后，对于建站更加熟练</p>
+<table>
+<thead>
+<tr>
+<th align="left"></th>
+<th align="center">vuepress</th>
+<th align="center">hexo</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left">安装</td>
+<td align="center">不难</td>
+<td align="center">不难</td>
+</tr>
+<tr>
+<td align="left">性能</td>
+<td align="center">略逊一筹</td>
+<td align="center">较好</td>
+</tr>
+<tr>
+<td align="left">美观</td>
+<td align="center">很好</td>
+<td align="center">较好</td>
+</tr>
+<tr>
+<td align="left">插件</td>
+<td align="center">出问题多</td>
+<td align="center">还没遇到</td>
+</tr>
+</tbody></table>
+<div class="note info"><p>以上内容仅代表个人使用体验，不具有普适性 </p>
+</div>
+
+
+
+<h2 id="美观性"><a href="#美观性" class="headerlink" title="美观性"></a>美观性</h2><p> 当把自己的弄得完成了，发现别人的怎么这么好看（晕）<br> 安慰自己大道至简</p>
+<h3 id="目前发现的好看主题"><a href="#目前发现的好看主题" class="headerlink" title="目前发现的好看主题"></a>目前发现的好看主题</h3><ul>
+<li>Hexo Fluid <ul>
+<li><a href="https://hexo.fluid-dev.com/docs/">官方文档</a></li>
+<li>eg: <a href="https://dognew0126.github.io/">dogNew’s Blog</a></li>
+</ul>
+</li>
+<li>hexo-theme-material-indigo <ul>
+<li><a href="https://github.com/yscoder/hexo-theme-indigo">github</a></li>
+<li>eg: <a href="https://javahikers.github.io/">Javahiker’s Homepage</a></li>
+</ul>
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>frontend</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
   </entry>
 </search>
