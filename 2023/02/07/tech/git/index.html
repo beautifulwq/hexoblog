@@ -24,7 +24,7 @@
 <meta property="og:description" content="git 真是博大精深:dog:打消学习兴趣的一个因素是连接问题，总耗在这些破事上还弄不明白，等弄明白了也不想学了 先学本地版git，再弄githubs😅                 short example    ls git list -a   log git log --all -- graph --decorate   cat cat 1.txt   ec">
 <meta property="og:locale" content="zh_CN">
 <meta property="article:published_time" content="2023-02-06T16:00:00.000Z">
-<meta property="article:modified_time" content="2023-02-12T11:22:50.612Z">
+<meta property="article:modified_time" content="2023-02-13T04:03:08.506Z">
 <meta property="article:author" content="WQ">
 <meta property="article:tag" content="tools">
 <meta name="twitter:card" content="summary_large_image">
@@ -272,7 +272,7 @@
       <span class="post-meta mr-2">
         <i class="iconfont icon-chart"></i>
         
-          815 字
+          851 字
         
       </span>
     
@@ -283,7 +283,7 @@
         
         
         
-          7 分钟
+          8 分钟
         
       </span>
     
@@ -372,6 +372,14 @@
 <td align="left"><code>git diff a b</code>(b-a)</td>
 </tr>
 <tr>
+<td align="left">merge</td>
+<td align="left"><code>git merge</code></td>
+</tr>
+<tr>
+<td align="left">rebase</td>
+<td align="left"><code>git rebase</code></td>
+</tr>
+<tr>
 <td align="left"><strong>待看</strong></td>
 <td align="left"></td>
 </tr>
@@ -383,21 +391,10 @@
 <td align="left">bisect</td>
 <td align="left"><code>git bisect</code></td>
 </tr>
-<tr>
-<td align="left">merge</td>
-<td align="left"><code>git merge</code></td>
-</tr>
-<tr>
-<td align="left">snapshot</td>
-<td align="left">快照</td>
-</tr>
-<tr>
-<td align="left">discard</td>
-<td align="left">丢弃</td>
-</tr>
 </tbody></table>
+<p>|snapshot|快照|<br>|discard |丢弃|</p>
 <div class="note note-info">
-            <p><strong>cat</strong></p><ul><li><code>&gt;&gt;</code> 追加 </li><li><code>&gt;</code>  重写</li></ul><p><strong>checkout</strong></p><ul><li>到某一状态。另外如果在最后修改（没做add&amp;&amp;commit）再checkout到之前状态会error</li></ul><p><strong>HEAD</strong></p><ul><li>类似指针，看向正在工作的位置</li></ul>
+            <p><strong>cat</strong></p><ul><li><code>&gt;&gt;</code> 追加 </li><li><code>&gt;</code>  重写</li></ul><p><strong>merge</strong> A<br>把A合并到当前指针</p><p><strong>checkout</strong></p><ul><li>到某一状态。另外如果在最后修改（没做add&amp;&amp;commit）再checkout到之前状态会error</li></ul><p><strong>HEAD</strong></p><ul><li>类似指针，看向正在工作的位置</li></ul>
           </div>
 
 <p><strong>add</strong><br><code>git add -p 1.txt</code> <code>s</code> split 手动选择add的内容</p>
