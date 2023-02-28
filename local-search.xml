@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>更换vscode的代码颜色</title>
+    <link href="/hexoblog/2023/02/28/post/"/>
+    <url>/hexoblog/2023/02/28/post/</url>
+    
+    <content type="html"><![CDATA[<p>更换vscode的代码颜色</p><span id="more"></span><ol><li>找到对应的文件夹<br>默认主题<br><code> D:\C\vscode\Microsoft VS Code\resources\app\extensions\theme-defaults\themes</code></li></ol><ol start="2"><li>打开json文件，主要修改<code>&quot;tokenColors&quot;</code>这一项<br>可以用github dark的对应修改</li></ol>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>tools</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>vscode C++</title>
     <link href="/hexoblog/2023/02/16/tech/vscode/"/>
     <url>/hexoblog/2023/02/16/tech/vscode/</url>

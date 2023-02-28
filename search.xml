@@ -1,66 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>test</title>
-    <url>/hexoblog/2023/02/09/tech/testing/</url>
-    <content><![CDATA[<p>摘要：test</p>
-<span id="more"></span>
-
-<p>helloworld</p>
-<figure class="highlight c++"><table><tr><td class="code"><pre><code class="hljs C++"><span class="hljs-type">int</span><br>adi<br>adf<br></code></pre></td></tr></table></figure>
-<hr>
-<p><a href="www.baidu.com">baidu</a></p>
-<p>容器</p>
-<p><code>&#123;% note class_name %&#125; Content (md partial supported) &#123;% endnote %&#125;</code></p>
-<p>其中，class_name 可以是以下列表中的一个值：</p>
-<ul>
-<li>default<ul>
-<li><div class="note note-default">
-            <p>Content (md partial supported) </p>
-          </div></li>
-</ul>
-</li>
-<li>primary<ul>
-<li><div class="note note-primary">
-            <p>Content (md partial supported) </p>
-          </div></li>
-</ul>
-</li>
-<li>success <ul>
-<li><div class="note note-success">
-            <p>Content (md partial supported) </p>
-          </div></li>
-</ul>
-</li>
-<li>info<ul>
-<li><div class="note note-info">
-            <p>Content (md partial supported) </p>
-          </div></li>
-</ul>
-</li>
-<li>warning<ul>
-<li><div class="note note-waring">
-            <p>Content (md partial supported) </p>
-          </div></li>
-</ul>
-</li>
-<li>danger<ul>
-<li><div class="note note-danger">
-            <p>Content (md partial supported) </p>
-          </div></li>
-</ul>
-</li>
-</ul>
-<p><a href="https://zhuanlan.zhihu.com/p/384472746">友链教程</a></p>
-]]></content>
-      <categories>
-        <category>frontend</category>
-      </categories>
-      <tags>
-        <tag>test</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>git使用</title>
     <url>/hexoblog/2023/02/07/tech/git/</url>
     <content><![CDATA[<span id="more"></span>
@@ -153,6 +93,83 @@
       </tags>
   </entry>
   <entry>
+    <title>更换vscode的代码颜色</title>
+    <url>/hexoblog/2023/02/28/post/</url>
+    <content><![CDATA[<p>更换vscode的代码颜色</p>
+<span id="more"></span>
+
+<ol>
+<li>找到对应的文件夹<br>默认主题<br><code> D:\C\vscode\Microsoft VS Code\resources\app\extensions\theme-defaults\themes</code></li>
+</ol>
+<ol start="2">
+<li>打开json文件，主要修改<code>&quot;tokenColors&quot;</code>这一项<br>可以用github dark的对应修改</li>
+</ol>
+]]></content>
+      <tags>
+        <tag>tools</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>test</title>
+    <url>/hexoblog/2023/02/09/tech/testing/</url>
+    <content><![CDATA[<p>摘要：test</p>
+<span id="more"></span>
+
+<p>helloworld</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><code class="hljs C++"><span class="hljs-type">int</span><br>adi<br>adf<br></code></pre></td></tr></table></figure>
+<hr>
+<p><a href="www.baidu.com">baidu</a></p>
+<p>容器</p>
+<p><code>&#123;% note class_name %&#125; Content (md partial supported) &#123;% endnote %&#125;</code></p>
+<p>其中，class_name 可以是以下列表中的一个值：</p>
+<ul>
+<li>default<ul>
+<li><div class="note note-default">
+            <p>Content (md partial supported) </p>
+          </div></li>
+</ul>
+</li>
+<li>primary<ul>
+<li><div class="note note-primary">
+            <p>Content (md partial supported) </p>
+          </div></li>
+</ul>
+</li>
+<li>success <ul>
+<li><div class="note note-success">
+            <p>Content (md partial supported) </p>
+          </div></li>
+</ul>
+</li>
+<li>info<ul>
+<li><div class="note note-info">
+            <p>Content (md partial supported) </p>
+          </div></li>
+</ul>
+</li>
+<li>warning<ul>
+<li><div class="note note-waring">
+            <p>Content (md partial supported) </p>
+          </div></li>
+</ul>
+</li>
+<li>danger<ul>
+<li><div class="note note-danger">
+            <p>Content (md partial supported) </p>
+          </div></li>
+</ul>
+</li>
+</ul>
+<p><a href="https://zhuanlan.zhihu.com/p/384472746">友链教程</a></p>
+]]></content>
+      <categories>
+        <category>frontend</category>
+      </categories>
+      <tags>
+        <tag>test</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/hexoblog/2023/02/09/tech/hello-world/</url>
     <content><![CDATA[<p>a brief guide to build your blog</p>
@@ -204,6 +221,28 @@
       </categories>
       <tags>
         <tag>tools</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>加密</title>
+    <url>/hexoblog/2023/02/10/tech/%E5%AF%86%E7%A0%81/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="afab302023d730cc547847e0a03cf137413543b3712a188b50f3ed59f2a2853a">f750530bb153dfb57074d19e8b86a567029004fcd46e724ef326908e6e03b431990742f6cb2dfa4cafe521e5c066aad55ea3221d92e5736ac338aad983a43fa05ba83e8fc16b8fdf24106a127622a41b7628e536d8245f1c10f8a6be18f36839b156e2703ee0b5088c8111ca61f7ea0e0cc8950c6c6f4c88eff8f20ef3c54b990b8328d7f30f6947ab30989e353b1ac4f7b98658fec7a1e99d77d2786b29254a677c5e6d4b92363e7f0e1ba72ba6328715e5f03bf2918b07ddd22e44fed9aab8685d619af1378dbe77d7e84a77882920c8f4022fd67886f917a75f3efb1c7d8d0827bc5d40abf480dbeef92a8a51b82426dd5b7fb7c1751bed29c5f0b85c936cd80a409ccfdd956660b4617b67c0b603e63509f09152f44794dd26b09e14aa8a43f442e248e8f5aa327e1dcad6e04e2aebede086c60fec3b637ba2174dfd7db11bcfcde087bbe1136d2a87433bded2f8069d794a4000c5b3a40fab6cefb3588c19c7bd3a6ea067bc5646a6aa507674cac8e42e6826e83b03a6b66f530abbe25e23b8bf2f9563d44518b59de39924ffbf7b4e8f7aa0313a8e86e038d4264e7c9a2fdf29e5ddb627ac55b010001a8664a5ab927c713077ccd9236f4686eb82fd7a757e5985d84f37c6454dc37700a1f50245d00c110f749c45543b3ee74cb369ee71569e8fda25d18193002ec00dfdb25d0757eac90df3ed5ff9cdea273f083adf2b13c4abb01859b465d82ab7e7b27cfe3be85e4290922e50eaec9150ea9feface8f4d5e0e51511f64f2aaf106d72af69d577cbff0558ce2b534d90c1aa2f97979ee1e59378e9ec92fbf0ff31d888178cac254ac82f0cd34b69d6ead74ca26860155fce3b03b25a0272f19653a978d8c1d69b186295541e4709e14e9b1b5eb90cebef4b8306b460e30d9a23e2674e3a207ec859c21800dddebf54e0a7cdc5140ccfe598b7d65e44d075879b9382090a474e70c35a53f2949fbd83b7ca6b21fc436abdfdd095f2e6965efb736a19a6146f147037a3eac5d909390eab49ec785bfe8e986e29819763d4b0b283184062244b26b427a1c433b6be90038dcfb569a1c569bb69ba52ebd3d19945a4e1879dd2a9b8d7066280d584658684474abe9abe78371f93e023d32ac4f92bfcfdca66c28915c117d3a5c65bb561fd504433ffada4dc8b35d605ffc345b05e6610ba9142c8b03d265bbc2110f1e6e604777d9dc1b5416be23ef9c778f48f15531361d6dae20babe5bf9c00c3f728c181ae11ff5cda7e6ef7144d7877985751b05223f7fbfcb2fb8344bb05575a681263bb6cd00e6464b300b6a3a4653ae4ef51f69b78730b839c24cde2ab2d0a087e479eb3de1bcfcfd344e20322201f3bb08481148a55d11d11125355253f4ba0897cd5f2a9c9907878d2ea0728c137c3a90e5482be66dd5a9edf884bd55d905b4d46fdb2d4a27ef007d46e227c8a4c26e55135f6c34624f2af0019a1d2409a77ae6c77531e9102f715f8360624705515cb132ea1c2d1b6cdb08252ca3a1c8e96b4d3344b767a90ac29c86f7dde0abe91970027f25ba2f8f8ece531f22d1b06bad42baf13a527202f8221f471493bddbb315cc241063ae9ecc418615678e7b3fc9c5ee6feeaab1d776e05fb0db2c2950b1d319452a2d0628c26e90b3476d04bc70b87845d74eee7d5fb40d713ad622da2c9d77f8c59af357f677f9ef1639a1f3d1f8840623956af76dddf83109b9a7643a68507cbe00302176e4e5c8d36a6ce9a85a86219462cce15b1845fdf6ed4b12d3625c203a2119ce23d316e4737da9b4e8ecc535490ad96b0687d4205d5b5d07a21b84e1845355768641c5b18190a02f2c56f497172e849e8030c702b36f34ac7e1b82f47d0a8527e55261aa39e7d5ce304448661dd8833730047f61eb9678f13e746d42956a1f77dd8e4e62b92cd939346163e82387dd8c85d01865e6e243e3c6c995dbae93cc88fb8113b9d741682e0943ef76853d649c41fedcf9cf432e999233238c43ca1601d31a3387d8fc8e997342ed4a94416cd68b9f33889776bb276a97804ad90aad4e4fa1b341b175132d60021b6f3590a7204c4430a8356ecd76be9e556c50a473e321b8a8dbb45537c1d2eddcb176e9c49bc113bdc9259427cde341317eca0aec53258207100a1874d2ac80ec3a2c9c6e9817bfe93f685a209d87f63391ded05d160b93fcb0535d0be7c3bf79d250c547c9497a9f4081202b43fe3d7825286a8b582a5ecc766949797c0a617d86d5d6cf014f269ddd28a47652ad49ab25daa59d2219f7df4fbcb387127ba9b4fca999cefe4dbdb93432b686278befca5cf4d5e30628eebfec4f2717922649cd0bc88f6ab7ca19020b4720f5ed624b09f53690ec044dc3bba2398341f946e8fb323690e814ddf22d8459490528fae50d6a1c0077c7935b7f254b392fe38cd139d6e2d9e837f7f1d4794c7c1a5b3e7d4d4516e5f62fe3419e33ed55e1c5097958032e0450a0e8cef9d1d94848cfaa634ff310e5129b8557de7faee794358d4720050f8fac5b0d1c8f7cfbaa0cd119b8988d6d1278e9fc686f088075d797ce67b43f0cbf0167d49ac65c92c509c0befd63e988f69c21c3fc6f2bbe5809cf80b0af4a968ab4d4995b48ba02ed704cba016e6149b993a8947031e0efde26c33a0c52a98e8682c1851ad3e8ac1a5ba4d513c9b76d9dc592f714a53c4f3cc2f3f2d70f446b11ca5d0016641aa626d92efeb1bfe774979b16c61554b6001812859dfd2dccabb656e6639d601ee331c7c69cdd97af554489f4226864cfc5bd364cb391818e3ffec0b0c854f82b92e8db06aaf63f041e609b3edc40d42061b86ea48be5946ff5ce6f1fae658fc9bcb4129a146149fe429db58aba17aaa9df8e67c31462254f31159aa90df9a4d364a6be07e21c740a7ca24c07e10a7654ce8ef53003e52d7ef92d05c6f8dda2fdd176635a4b59cde7fa36636370852c742d9ec6d3fde836d109b456d7120105214d755c0eb620a2d70d5414f140542e9911eaa0df4a4fd9bf67be5308afda2e5ca563458bd690e07dd12b03aff4af0ab070d7a33f9379ab310bebec9f0a25cfd30cafa931b29a6974b5a47d5cef59149e12e0c27dca41958be02b00a7fec2b4d0a8f3b41127fb3ee3e41f156244bbb4d4ded35d33313a0c4bb125f5831ddf8c04080b43284c37ddbcf5d0df6339fbd5089391bbc2cfe7d86805c9590d837d715bf42983fbdde389c9227afe75e31fcb714eddc8c89468ca01a18463703f9d6df6a73adc84cecde40d16c18dd7d6bd1ced512a70e9e016b9bcff5912e062c0b61477cf5005829e65d03df6e6f0983eae45459cf186068f4f77d1bc66f06bfce559590d556b294691fa0cafa51f6612715bceacc576c1c527cec64092289dcc62b4dfcab130107e096df61f6cf5592ad761059cdfbf2ea1766dddb4d8c</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">这里需要密码.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/hexoblog/lib/hbe.js"></script><link href="/hexoblog/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>frontend</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
       </tags>
   </entry>
   <entry>
@@ -269,25 +308,15 @@
       </tags>
   </entry>
   <entry>
-    <title>加密</title>
-    <url>/hexoblog/2023/02/10/tech/%E5%AF%86%E7%A0%81/</url>
-    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="afab302023d730cc547847e0a03cf137413543b3712a188b50f3ed59f2a2853a">f750530bb153dfb57074d19e8b86a567029004fcd46e724ef326908e6e03b431990742f6cb2dfa4cafe521e5c066aad55ea3221d92e5736ac338aad983a43fa05ba83e8fc16b8fdf24106a127622a41b7628e536d8245f1c10f8a6be18f36839b156e2703ee0b5088c8111ca61f7ea0e0cc8950c6c6f4c88eff8f20ef3c54b990b8328d7f30f6947ab30989e353b1ac4f7b98658fec7a1e99d77d2786b29254a677c5e6d4b92363e7f0e1ba72ba6328715e5f03bf2918b07ddd22e44fed9aab8685d619af1378dbe77d7e84a77882920c8f4022fd67886f917a75f3efb1c7d8d0827bc5d40abf480dbeef92a8a51b82426dd5b7fb7c1751bed29c5f0b85c936cd80a409ccfdd956660b4617b67c0b603e63509f09152f44794dd26b09e14aa8a43f442e248e8f5aa327e1dcad6e04e2aebede086c60fec3b637ba2174dfd7db11bcfcde087bbe1136d2a87433bded2f8069d794a4000c5b3a40fab6cefb3588c19c7bd3a6ea067bc5646a6aa507674cac8e42e6826e83b03a6b66f530abbe25e23b8bf2f9563d44518b59de39924ffbf7b4e8f7aa0313a8e86e038d4264e7c9a2fdf29e5ddb627ac55b010001a8664a5ab927c713077ccd9236f4686eb82fd7a757e5985d84f37c6454dc37700a1f50245d00c110f749c45543b3ee74cb369ee71569e8fda25d18193002ec00dfdb25d0757eac90df3ed5ff9cdea273f083adf2b13c4abb01859b465d82ab7e7b27cfe3be85e4290922e50eaec9150ea9feface8f4d5e0e51511f64f2aaf106d72af69d577cbff0558ce2b534d90c1aa2f97979ee1e59378e9ec92fbf0ff31d888178cac254ac82f0cd34b69d6ead74ca26860155fce3b03b25a0272f19653a978d8c1d69b186295541e4709e14e9b1b5eb90cebef4b8306b460e30d9a23e2674e3a207ec859c21800dddebf54e0a7cdc5140ccfe598b7d65e44d075879b9382090a474e70c35a53f2949fbd83b7ca6b21fc436abdfdd095f2e6965efb736a19a6146f147037a3eac5d909390eab49ec785bfe8e986e29819763d4b0b283184062244b26b427a1c433b6be90038dcfb569a1c569bb69ba52ebd3d19945a4e1879dd2a9b8d7066280d584658684474abe9abe78371f93e023d32ac4f92bfcfdca66c28915c117d3a5c65bb561fd504433ffada4dc8b35d605ffc345b05e6610ba9142c8b03d265bbc2110f1e6e604777d9dc1b5416be23ef9c778f48f15531361d6dae20babe5bf9c00c3f728c181ae11ff5cda7e6ef7144d7877985751b05223f7fbfcb2fb8344bb05575a681263bb6cd00e6464b300b6a3a4653ae4ef51f69b78730b839c24cde2ab2d0a087e479eb3de1bcfcfd344e20322201f3bb08481148a55d11d11125355253f4ba0897cd5f2a9c9907878d2ea0728c137c3a90e5482be66dd5a9edf884bd55d905b4d46fdb2d4a27ef007d46e227c8a4c26e55135f6c34624f2af0019a1d2409a77ae6c77531e9102f715f8360624705515cb132ea1c2d1b6cdb08252ca3a1c8e96b4d3344b767a90ac29c86f7dde0abe91970027f25ba2f8f8ece531f22d1b06bad42baf13a527202f8221f471493bddbb315cc241063ae9ecc418615678e7b3fc9c5ee6feeaab1d776e05fb0db2c2950b1d319452a2d0628c26e90b3476d04bc70b87845d74eee7d5fb40d713ad622da2c9d77f8c59af357f677f9ef1639a1f3d1f8840623956af76dddf83109b9a7643a68507cbe00302176e4e5c8d36a6ce9a85a86219462cce15b1845fdf6ed4b12d3625c203a2119ce23d316e4737da9b4e8ecc535490ad96b0687d4205d5b5d07a21b84e1845355768641c5b18190a02f2c56f497172e849e8030c702b36f34ac7e1b82f47d0a8527e55261aa39e7d5ce304448661dd8833730047f61eb9678f13e746d42956a1f77dd8e4e62b92cd939346163e82387dd8c85d01865e6e243e3c6c995dbae93cc88fb8113b9d741682e0943ef76853d649c41fedcf9cf432e999233238c43ca1601d31a3387d8fc8e997342ed4a94416cd68b9f33889776bb276a97804ad90aad4e4fa1b341b175132d60021b6f3590a7204c4430a8356ecd76be9e556c50a473e321b8a8dbb45537c1d2eddcb176e9c49bc113bdc9259427cde341317eca0aec53258207100a1874d2ac80ec3a2c9c6e9817bfe93f685a209d87f63391ded05d160b93fcb0535d0be7c3bf79d250c547c9497a9f4081202b43fe3d7825286a8b582a5ecc766949797c0a617d86d5d6cf014f269ddd28a47652ad49ab25daa59d2219f7df4fbcb387127ba9b4fca999cefe4dbdb93432b686278befca5cf4d5e30628eebfec4f2717922649cd0bc88f6ab7ca19020b4720f5ed624b09f53690ec044dc3bba2398341f946e8fb323690e814ddf22d8459490528fae50d6a1c0077c7935b7f254b392fe38cd139d6e2d9e837f7f1d4794c7c1a5b3e7d4d4516e5f62fe3419e33ed55e1c5097958032e0450a0e8cef9d1d94848cfaa634ff310e5129b8557de7faee794358d4720050f8fac5b0d1c8f7cfbaa0cd119b8988d6d1278e9fc686f088075d797ce67b43f0cbf0167d49ac65c92c509c0befd63e988f69c21c3fc6f2bbe5809cf80b0af4a968ab4d4995b48ba02ed704cba016e6149b993a8947031e0efde26c33a0c52a98e8682c1851ad3e8ac1a5ba4d513c9b76d9dc592f714a53c4f3cc2f3f2d70f446b11ca5d0016641aa626d92efeb1bfe774979b16c61554b6001812859dfd2dccabb656e6639d601ee331c7c69cdd97af554489f4226864cfc5bd364cb391818e3ffec0b0c854f82b92e8db06aaf63f041e609b3edc40d42061b86ea48be5946ff5ce6f1fae658fc9bcb4129a146149fe429db58aba17aaa9df8e67c31462254f31159aa90df9a4d364a6be07e21c740a7ca24c07e10a7654ce8ef53003e52d7ef92d05c6f8dda2fdd176635a4b59cde7fa36636370852c742d9ec6d3fde836d109b456d7120105214d755c0eb620a2d70d5414f140542e9911eaa0df4a4fd9bf67be5308afda2e5ca563458bd690e07dd12b03aff4af0ab070d7a33f9379ab310bebec9f0a25cfd30cafa931b29a6974b5a47d5cef59149e12e0c27dca41958be02b00a7fec2b4d0a8f3b41127fb3ee3e41f156244bbb4d4ded35d33313a0c4bb125f5831ddf8c04080b43284c37ddbcf5d0df6339fbd5089391bbc2cfe7d86805c9590d837d715bf42983fbdde389c9227afe75e31fcb714eddc8c89468ca01a18463703f9d6df6a73adc84cecde40d16c18dd7d6bd1ced512a70e9e016b9bcff5912e062c0b61477cf5005829e65d03df6e6f0983eae45459cf186068f4f77d1bc66f06bfce559590d556b294691fa0cafa51f6612715bceacc576c1c527cec64092289dcc62b4dfcab130107e096df61f6cf5592ad761059cdfbf2ea1766dddb4d8c</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-default">
-      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-default">这里需要密码.</span>
-      </label>
-    </div>
-  </div>
-</div>
-<script data-pjax src="/hexoblog/lib/hbe.js"></script><link href="/hexoblog/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+    <title>20th</title>
+    <url>/hexoblog/2022/10/03/life/20th/</url>
+    <content><![CDATA[<p>今天7：40起来后5食堂吃的豆沙饼、鸡蛋、豆浆<br>回来后收拾一下去百团<br>收获了单车宽牌一副、大工钥匙扣一个、明信片2张、今年的盖章没有去年要求多，今年72个，去年100个<br>很幸运，一下就摸到黑桃A。中午开始下大雨，下午没去，估计都收摊了。<br>去年的今天我发了一段《钢铁是怎样炼成的》的”人的生命只有一次那段“，今年没发，或许是因为想法变了😅。<br>明天应该就去开发区了，走了。</p>
+]]></content>
       <categories>
-        <category>frontend</category>
+        <category>life</category>
       </categories>
       <tags>
-        <tag>hexo</tag>
+        <tag>life</tag>
       </tags>
   </entry>
   <entry>
@@ -313,39 +342,6 @@
       </tags>
   </entry>
   <entry>
-    <title>化工</title>
-    <url>/hexoblog/2022/01/07/life/%E5%8C%96%E5%B7%A5/</url>
-    <content><![CDATA[<span id="more"></span>
-
-<p>我是如何一步步走进化工这个坑的！<br>灵图<br>灵图<br>合成研发工程师<br>​关注他<br>31 人赞同了该文章<br>我是中科院某所毕业的硕士，去年毕业来到现在的公司。最近，领导通知我有一个新项目等着我来做，我查了下原料是剧毒化学品。近半年来，每天浸泡在含氟有机试剂氛围中，已使我萌生了跳槽的想法，当领导通知我这个新项目后，我萌生了转行的想法。转行虽能使我从化工这个危险行当脱身，但也意味着本科、硕士七年的化学专业学习白费了，需要从头学习其他行业的知识。走到今天这一步，不得不反思我是怎样一步步走进化工这行的。</p>
-<p>第一步是无知，高考选取大学专业时，我并不知道大学专业对工作的影响，不知道大学专业课程是怎么教的、怎么学的、怎么考试的，想当然的从考试难易的角度选取了专业。高中之前学习并考试过的科目有语文、数学、英语、物理、化学、生物、政治、地理、历史，高中时分到理科班，对专业的认识只能从语文、数学、英语、物理、化学、生物这几门课程中窥探，想当然的认为高中理科生对应大学专业是与物理、化学、生物这三者相关的，而这三科对我来说化学最易考试，于是通向化工这行的第一步迈开了，高考选取了林产化工这个专业。化工之前有“林产”是因为，家在农村，小时候父亲长期从事林木采伐职业，对树林比较熟悉。</p>
-<p>第二步是短视，要说这第一步的无知是客观环境造成的，这第二步的短视的确是个人原因造成的。进入大一我已从同学那里知道大一下学期可以转专业，大一上学期除了上课和参加公共活动，我大部分时间泡在学校图书馆，周末去信息工程学院上网玩。由于不知道大学每门课结束后老师会画考试重点，课程多、学的快，担心期末考试通不过，课余我还经常去图书馆找习题做，按高中的思路理解划重点就是提前透露考题。由于用力过猛，大一第一学期期末考试我考了专业第一。第二学期开学不久，有一天班长通知我们要评专业奖学金，第一次完全按照考试成绩评。这时大家才开始关注大学奖学金的事，自从知道有奖学金后，身为贫困生的我，大学学习、考试就是为了奖学金，短视的种子自此埋下。有一天，平时关系挺好的老杨告诉我他要转专业，问我转么，我问了他一些转专业后学分的问题，了解到转专业后需要补休一些其他专业大一第一学期学过，而自己没有学过的课程。后来我没有转专业，当时是出于两点原因，一是不想补休课程，二是受到奖学金的诱惑，而这第二点是主因。评奖学金时，我从班长那了解到，大一结束后会评国家奖学金（8000元），我们专业有一到两个名额，如果我保持成绩有很大可能拿到国家奖学金，而当时我第一学期的成绩已经领先。最终我并没有拿到国家奖学金，因为自从知道有奖学金这回事，女同学发力了，而我知道考试会划重点后松懈了。</p>
-<p>第三步是惯性，第一、第二步我能用很明确的词语形容，这第三步不太好形容，就用惯性这个词吧。进入大学，入学典礼上院长，就给我们灌输了考研思想，大学四年，我们班主任（我们学院党委副书记）每次开班会都给我灌输类似的思想。他每次开会总是说希望我们班三分之一留学、保研，三分之一考研。大二下学期学校鼓励大家申请“大学生创新性实验项目”，本来我没想申请，看到班里大部分人三、五一组申请了，在周围人的鼓动下，我也与几个同学组成小组申请了，我被推为组长，虽然，在别人材料快准备完时，我们才找老师、准备材料，不被周围人看好的我们组，却最终被评为国家级项目（分三级：院级、校级、国家级），全校评出10个国家级项目，我们组排第四，这件事给大家留下了我适合搞学术研究的印象（研究生读完，我发现我非常不适合搞学术研究），也加强了我读研的惯性。在这种惯性的作用下我考了化工专业的研究生。</p>
-<p>第四步是专业，虽然，读研期间被折腾的不轻，想过逃离化工行当，但是，毕业找工作时发现，大部分工作是要求专业对口的，那种不要求专业的工作，对学历也没有什么要求。放弃自己的专业，意味着大学、硕士白读了，家人是反对的。</p>
-<p>有时候真想裸辞，花一两年时间尝试下其他行业，我知道这会遭到他们的反对！</p>
-<p>编辑于 2016-12-11 16:03</p>
-<!-- more -->
-]]></content>
-      <categories>
-        <category>life</category>
-      </categories>
-      <tags>
-        <tag>life</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>20th</title>
-    <url>/hexoblog/2022/10/03/life/20th/</url>
-    <content><![CDATA[<p>今天7：40起来后5食堂吃的豆沙饼、鸡蛋、豆浆<br>回来后收拾一下去百团<br>收获了单车宽牌一副、大工钥匙扣一个、明信片2张、今年的盖章没有去年要求多，今年72个，去年100个<br>很幸运，一下就摸到黑桃A。中午开始下大雨，下午没去，估计都收摊了。<br>去年的今天我发了一段《钢铁是怎样炼成的》的”人的生命只有一次那段“，今年没发，或许是因为想法变了😅。<br>明天应该就去开发区了，走了。</p>
-]]></content>
-      <categories>
-        <category>life</category>
-      </categories>
-      <tags>
-        <tag>life</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>孤独摇滚</title>
     <url>/hexoblog/2023/02/12/life/%E5%AD%A4%E7%8B%AC%E6%91%87%E6%BB%9A/</url>
     <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
@@ -360,6 +356,27 @@
   </div>
 </div>
 <script data-pjax src="/hexoblog/lib/hbe.js"></script><link href="/hexoblog/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>life</category>
+      </categories>
+      <tags>
+        <tag>life</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>化工</title>
+    <url>/hexoblog/2022/01/07/life/%E5%8C%96%E5%B7%A5/</url>
+    <content><![CDATA[<span id="more"></span>
+
+<p>我是如何一步步走进化工这个坑的！<br>灵图<br>灵图<br>合成研发工程师<br>​关注他<br>31 人赞同了该文章<br>我是中科院某所毕业的硕士，去年毕业来到现在的公司。最近，领导通知我有一个新项目等着我来做，我查了下原料是剧毒化学品。近半年来，每天浸泡在含氟有机试剂氛围中，已使我萌生了跳槽的想法，当领导通知我这个新项目后，我萌生了转行的想法。转行虽能使我从化工这个危险行当脱身，但也意味着本科、硕士七年的化学专业学习白费了，需要从头学习其他行业的知识。走到今天这一步，不得不反思我是怎样一步步走进化工这行的。</p>
+<p>第一步是无知，高考选取大学专业时，我并不知道大学专业对工作的影响，不知道大学专业课程是怎么教的、怎么学的、怎么考试的，想当然的从考试难易的角度选取了专业。高中之前学习并考试过的科目有语文、数学、英语、物理、化学、生物、政治、地理、历史，高中时分到理科班，对专业的认识只能从语文、数学、英语、物理、化学、生物这几门课程中窥探，想当然的认为高中理科生对应大学专业是与物理、化学、生物这三者相关的，而这三科对我来说化学最易考试，于是通向化工这行的第一步迈开了，高考选取了林产化工这个专业。化工之前有“林产”是因为，家在农村，小时候父亲长期从事林木采伐职业，对树林比较熟悉。</p>
+<p>第二步是短视，要说这第一步的无知是客观环境造成的，这第二步的短视的确是个人原因造成的。进入大一我已从同学那里知道大一下学期可以转专业，大一上学期除了上课和参加公共活动，我大部分时间泡在学校图书馆，周末去信息工程学院上网玩。由于不知道大学每门课结束后老师会画考试重点，课程多、学的快，担心期末考试通不过，课余我还经常去图书馆找习题做，按高中的思路理解划重点就是提前透露考题。由于用力过猛，大一第一学期期末考试我考了专业第一。第二学期开学不久，有一天班长通知我们要评专业奖学金，第一次完全按照考试成绩评。这时大家才开始关注大学奖学金的事，自从知道有奖学金后，身为贫困生的我，大学学习、考试就是为了奖学金，短视的种子自此埋下。有一天，平时关系挺好的老杨告诉我他要转专业，问我转么，我问了他一些转专业后学分的问题，了解到转专业后需要补休一些其他专业大一第一学期学过，而自己没有学过的课程。后来我没有转专业，当时是出于两点原因，一是不想补休课程，二是受到奖学金的诱惑，而这第二点是主因。评奖学金时，我从班长那了解到，大一结束后会评国家奖学金（8000元），我们专业有一到两个名额，如果我保持成绩有很大可能拿到国家奖学金，而当时我第一学期的成绩已经领先。最终我并没有拿到国家奖学金，因为自从知道有奖学金这回事，女同学发力了，而我知道考试会划重点后松懈了。</p>
+<p>第三步是惯性，第一、第二步我能用很明确的词语形容，这第三步不太好形容，就用惯性这个词吧。进入大学，入学典礼上院长，就给我们灌输了考研思想，大学四年，我们班主任（我们学院党委副书记）每次开班会都给我灌输类似的思想。他每次开会总是说希望我们班三分之一留学、保研，三分之一考研。大二下学期学校鼓励大家申请“大学生创新性实验项目”，本来我没想申请，看到班里大部分人三、五一组申请了，在周围人的鼓动下，我也与几个同学组成小组申请了，我被推为组长，虽然，在别人材料快准备完时，我们才找老师、准备材料，不被周围人看好的我们组，却最终被评为国家级项目（分三级：院级、校级、国家级），全校评出10个国家级项目，我们组排第四，这件事给大家留下了我适合搞学术研究的印象（研究生读完，我发现我非常不适合搞学术研究），也加强了我读研的惯性。在这种惯性的作用下我考了化工专业的研究生。</p>
+<p>第四步是专业，虽然，读研期间被折腾的不轻，想过逃离化工行当，但是，毕业找工作时发现，大部分工作是要求专业对口的，那种不要求专业的工作，对学历也没有什么要求。放弃自己的专业，意味着大学、硕士白读了，家人是反对的。</p>
+<p>有时候真想裸辞，花一两年时间尝试下其他行业，我知道这会遭到他们的反对！</p>
+<p>编辑于 2016-12-11 16:03</p>
+<!-- more -->
+]]></content>
       <categories>
         <category>life</category>
       </categories>
